@@ -1,3 +1,4 @@
 # Improvements
 - Add specifiaction for ingredients. Like which cut to prefer, usw.
-- Add specificatoon for recipe parts
+- Add specification for recipe parts
+- Add a short description field for recipes
