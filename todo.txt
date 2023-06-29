@@ -1,0 +1,3 @@
+# Improvements
+- Add specifiaction for ingredients. Like which cut to prefer, usw.
+- Add specificatoon for recipe parts
