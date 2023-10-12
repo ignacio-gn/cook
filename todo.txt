@@ -2,3 +2,4 @@
 - Add specifiaction for ingredients. Like which cut to prefer, usw.
 - Add specification for recipe parts
 - Add a short description field for recipes
+- Footer: Notes on how to adapt, change, store, reuse, ... the dishes
